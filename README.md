@@ -21,7 +21,7 @@ also i'm current student on Software Enginearing department.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![python Badge](https://img.shields.io/badge/-python-007acc?style=for-the-badge&labelColor=grey&logo=python&logoColor=3F79AC)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![javascript Badge](https://img.shields.io/badge/-javascript- #FAFA33?style=for-the-badge&labelColor=yellow&logo=javascript&logoColor=3C873A)](#) [![react Badge](https://img.shields.io/badge/-reactjs-3F79AC?style=for-the-badge&labelColor=blue&logo=React&logoColor=3C873A)](#)
+[![python Badge](https://img.shields.io/badge/-python-007acc?style=for-the-badge&labelColor=grey&logo=python&logoColor=3F79AC)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![javascript Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=javascript&logoColor=f535ab)](#) [![react Badge](https://img.shields.io/badge/-reactjs-3F79AC?style=for-the-badge&labelColor=blue&logo=React&logoColor=black-blue)](#)
 
 <!-- #### Github Stats
 
