@@ -1,7 +1,9 @@
 ## Hi I'm Hafsa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm a full stuck web developer that enjoy coding and building outstanding projects, based on hargeisa,somalia.
+
 i've been focusing lately on building projects using some programming languages of both backend and frontend developments, like: python, nodejs, Reactjs, javascript.. and guess what!🙂, i made a huge progress on there.
+
 also i'm current student on Software Enginearing department.
 
 :mailbox: Reach me out!
@@ -19,7 +21,7 @@ also i'm current student on Software Enginearing department.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![python Badge](https://img.shields.io/badge/-python-007acc?style=for-the-badge&labelColor=grey&logo=python&logoColor=3F79AC)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![javascript Badge](https://img.shields.io/badge/-javascript-e535ab?style=for-the-badge&labelColor=black&logo=javascript&logoColor=e535ab)](#) [![react Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=React&logoColor=3F79AC)](#)
+[![python Badge](https://img.shields.io/badge/-python-007acc?style=for-the-badge&labelColor=grey&logo=python&logoColor=3F79AC)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![javascript Badge](https://img.shields.io/badge/-javascript-e535ab?style=for-the-badge&labelColor=yellow&logo=javascript&logoColor=yellow-green)](#) [![react Badge](https://img.shields.io/badge/-javascript-3F79AC?style=for-the-badge&labelColor=blue&logo=React&logoColor=blue-grey)](#)
 
 <!-- #### Github Stats
 
