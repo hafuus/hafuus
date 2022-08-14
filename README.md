@@ -10,7 +10,7 @@ also i'm current student on Software Enginearing department. -->
 
 [![Twitter Badge](https://img.shields.io/badge/-@hafuus717-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/hafuus717) [![Linkedin Badge](https://img.shields.io/badge/-Hafsa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-ahmed-227a0923b/) [![Mail Badge](https://img.shields.io/badge/-Hafsa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](hafuus17@gmail.com)
 
-<img width="55%" alig="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently focusing on building more projects.
