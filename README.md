@@ -1,6 +1,6 @@
 ## Hi I'm Hafsa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm an entry level software developer that enjoy coding and building outstanding projects, based on hargeisa,somalia.
+an entry level software developer.
 
 <!-- i've been focusing lately on building projects using some programming languages of both backend and frontend developments, like: python, nodejs, Reactjs, javascript.. and guess what🙂!, i made a huge progress on there.
 
