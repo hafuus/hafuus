@@ -2,7 +2,7 @@
 
 an entry level software developer.
 
-<!-- i've been focusing lately on building projects using some programming languages of both backend and frontend developments, like: python, nodejs, Reactjs, javascript.. and guess what🙂!, i made a huge progress on there...
+<!-- i've been focusing lately on building projects using some programming languages of both backend and frontend developments, like: python, nodejs, Reactjs, javascript.. and guess what🙂!, i made a huge progress on there.....
 
 also i'm current student on Software Enginearing department. -->
 
