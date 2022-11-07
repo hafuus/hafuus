@@ -2,11 +2,6 @@
 
 an entry level software developer.
 
-<!-- i've been focusing lately on building projects using some programming languages of both backend and frontend developments, like: python, nodejs, Reactjs, javascript.. and guess what🙂!, i made a huge progress on there.
-
-
-also i'm current student on Software Enginearing department. -->
-
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@hafuus717-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/hafuus717) [![Linkedin Badge](https://img.shields.io/badge/-Hafsa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-ahmed-227a0923b/) [![Mail Badge](https://img.shields.io/badge/-Hafsa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](hafuus17@gmail.com)
